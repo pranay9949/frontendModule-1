@@ -1,0 +1,357 @@
+.vertical-line{
+    background-color: #dadada;
+    width:2px;
+    height:30px;
+    margin-inline:4px;
+}
+.nav-container{
+    
+    top: 0;
+    position: fixed;
+    height:60px;
+    width: 100vw;
+    margin:0px;
+    padding: 0px;
+}
+.full-cont{
+    margin-top:60px;
+}
+.nav-image-cont{
+    margin-left:60px;
+    margin-top: 12px;
+}
+.nav-images{ 
+    height: 30px;
+}
+.nav-menu-cont{
+   margin-right: 100px;
+    margin-top: 12px;
+}
+.list-items{
+  font-weight: 400;
+   font-size: 15px;
+   color: #4F4F4F;
+   font-family: Georgia, serif;
+}
+.log-bn{
+    margin-top: 12px;
+    margin-right: 100px;
+    height: 40px;
+  width: 90px;
+  color:#2f80ed; 
+}
+.info{
+    background-color:#2f80ed;
+    width: 100vw;
+    height:32px;
+    color: #ffffff;
+    font-weight: light;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 12px;
+}
+.main-header{
+    width: 450px;
+    margin-top: 60px;
+    margin-left: 50px;
+      
+}
+.head{
+    font-style: italic;
+    font-size: 35px;
+    font-weight: 400;
+    margin: 0px;
+}
+.span-element{
+    color: #2f80ed;
+}
+.hero-para{
+   font-family:Georgia, serif;
+   color: #595959;
+   font-size: 15px;
+   width: 400px;
+   font-weight: lighter;
+   margin-top: 15px;
+ 
+}
+.details-card{
+   
+    width: 690px;
+    height:65px;
+    border: 1px solid #e2e2e2;
+    border-radius:10px;
+    box-shadow:5px 5px 5px #e2e2e2;
+}
+.box-img{
+    height: 45px;
+}
+.box-content{
+   margin: 0px;
+  font-weight:600;
+  font-size: 18px;
+  color: #2b2f34;
+}
+.box-line{
+    font-family:Georgia, serif;
+    color: #595959;
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: 1px;
+   
+}
+.clas-card{
+    width: 330px;
+    height: 390px;
+    border-radius:10px;
+    border: 1px solid #e2e2e2;
+    margin-left: 300px;
+    text-align:center;
+}
+.person-card{
+    background-color: #fafafa;
+    width: 90%;
+    margin: 10px;
+    margin-left: 15px;
+    border-radius: 10px;
+    height: 45px;
+}
+.class-header{
+    font-size: 28px;
+    color:#2b2f34;
+   
+}
+.class-para{
+    font-family:Georgia, serif;
+    color: #75808f;
+    font-size: 15px;
+    padding-inline:10px;
+    margin-top: 10px;
+}
+.class-name{
+    font-family:Georgia, serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #2b2f34;
+}
+.class-num{
+    color:#8393a9;
+    font-family:Georgia, serif;
+    font-size: 15px;
+}
+.card-btn{
+    background:linear-gradient(to right,#6f4fed,#3b77edff,#8a3bed);
+   border: none;
+   color: #fafafa;
+   border-radius: 5px;
+   width:85%;
+   height: 50px;
+}
+.card-bottom{
+    font-size:11px;
+    font-family:Georgia, serif;
+    color: #818d9dff;
+    margin-top: 14px;
+}
+.card-terms{
+    font-family:Georgia, serif;
+    font-size:11px;
+    display: block;
+   
+}
+.student-cont{
+    width:250px;
+    height:30px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px 5px #e2e2e2;
+    font-size:12px;
+    font-family:Georgia, serif;
+    color:#525252;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.course-cont{
+    background-color:#ecf8ff;
+    text-align: center;
+    margin-top: 50px;
+  
+}
+.web-col{
+    color: #625aed;
+    font-style: italic;
+}
+.course-col{
+    color:#2f80ed;
+   
+}
+.select-cont{
+    width:420px;
+    height: 490px;
+    border: 2px solid  #625aed ;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 50px;
+}
+.ideal-btn{
+   width:150px;
+   font-size: 15px;
+   border: none;
+   margin-left: 290px;
+   color: #ffffff;
+   height: 30px;
+   border-radius: 5px;
+   padding-top: 3px;
+}
+.assure-card{
+    background-color: #e0f3ff;
+    width:160px;
+    height: 40px;
+    margin: 5px;
+    color:#625aed;
+    font-family:Georgia, serif;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.second-card{
+    background-color:#ffeed8 ;
+    color:#965400;
+}
+.horizontal-line{
+    width: 90%;
+    height:0.5px;
+    background-color: #cccccc;
+    margin-left: 13px;
+    
+}
+.course-img{
+    height: 20px;
+
+}
+.begin{
+    font-style: italic;
+  font-size: 18px;
+}
+.garant-car{
+     color:#625aed;
+
+}
+.student-select{
+    
+    font-size:12px;
+    font-family:Georgia, serif;
+    color:#525252;
+   
+    align-items: center;
+    justify-content: center;
+
+}
+.course-details{
+    font-size:15px;
+    font-family:Georgia, serif;
+   
+}
+.course-duration{
+    font-size:15px;
+    font-style: italic;
+}
+.btn-bottom{
+    width:180px
+}
+.eligible{
+    width:160px;
+}
+
+.company-container{
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+}
+.hire{
+    color: #764bee;
+}
+.engineer{
+    color: #2f80ed;
+}
+.from{
+    font-size:15px;
+    font-family:Georgia, serif;
+    color:#595959;
+}
+.companies{
+    margin-left: 150px;
+}
+.img-company{
+    width: 130px;
+}
+.bottom-exp{
+   margin-left: 520px;
+   margin-bottom: 60px;
+}
+.last-para{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+}
+.align{
+    text-align: center;
+}
+.bottom-cont{
+   width: 250px;
+    border: 0.5px solid #c9c9c9;
+    border-radius: 10px;
+}
+.mar{
+    margin-bottom:0px;
+}
+.profile{
+    height: 40px;
+}
+.linkd{
+height: 25px;
+}
+.header{
+   font-size: 16px;
+}
+.para{
+    font-size: 12px;
+    color:#595959 ;
+    font-family:Georgia, serif;
+}
+.last{
+    margin-top: 0px;
+    margin-left: 220px;
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+
+@media (max-width:576px){
+    .nav-menu-cont{
+        display: none;
+    }
+    .nav-image-cont{
+        margin: 0px;
+        margin-top: 10px;
+        margin-right: 30px;
+    }
+   .info{
+    display: none;
+   }
+   .head,.hero-para{
+    font-size:large;
+    margin-left: 0px;
+    width:150px;
+   }
+   .details-card{
+    display: none;
+   }
+   .bottom-cont{
+    display:block;
+    width: 100%;
+    
+   }
+}
